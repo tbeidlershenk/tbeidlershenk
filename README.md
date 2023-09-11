@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 My interests are machine learning and game development
-- 🌱 I’m currently learning software testing & QA
-- 🤔 I’m looking for summer 2023 internship roles!
-- 📫 Contact me by email: tbeidlershenk@gmail.com
+- 🔭 My interests are software and game development
+- 🌱 I’m currently learning operating systems & C programming
+- 🤔 I’m looking for summer 2024 SWE / SQA internship roles!
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tobias-beidler-shenk-681406221/)
+- 📫 Contact me by email - tbeidlershenk@gmail.com
+- 🌐 Check out my [website](https://tbeidlershenk.github.io/)
